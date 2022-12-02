@@ -1,0 +1,8 @@
+com\controller\model\PlayerData.class
+Main.class
+com\controller\configuration\WebConfig.class
+com\controller\controller\PlayerController.class
+com\controller\model\Player.class
+com\controller\service\PlayerServiceImpl.class
+com\controller\service\PlayerService.class
+com\controller\configuration\WebAppInitializer.class
