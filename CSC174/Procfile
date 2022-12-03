@@ -1,1 +1,1 @@
-web: mvn cargo:run
+web:mvn cargo:run
